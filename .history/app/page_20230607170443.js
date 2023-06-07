@@ -14,7 +14,7 @@ export default function Home() {
             alt="Jordan 1"
           />
           <h2 className="text-2xl font-bold text-center">
-            Off-White x Jordan 1 Chicagos
+            Off-White x Jordan 1 Chicago's
           </h2>
           <p className="text-center">Size 10.5</p>
           <p className="text-center">$1,000</p>
